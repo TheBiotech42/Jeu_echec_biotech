@@ -40,6 +40,7 @@ Pour envoyer des changements dans ta branche
 
 
 autre commande intéressante,
+git fecth origin main ( prend la version de la branch main)
 git pull (te permet de prendre la version actuel du projet)
 git merge (merge 2 branch)
 git (te donne toutes les commandes de git)
