@@ -19,6 +19,7 @@ Dans terminal/gitbash,
 3) cd nom_du_folder
 4) git clone https://github.com/TheBiotech42/Jeu_echec_biotech.git
 5) git branch nom_de_ta_branch
+6) git switch nom de la branche
 
 
 Pour envoyer des changements dans ta branche,
