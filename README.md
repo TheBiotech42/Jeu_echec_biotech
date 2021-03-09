@@ -22,8 +22,17 @@ Dans terminal/gitbash,
 6) git switch nom de la branche
 
 
-Pour envoyer des changements dans ta branche,
-1) assure-toi d'être dans ta branche avec git branch nom_de_ta_branche
+Pour envoyer des changements dans ta branche pour la première fois,
+1) git switch nom_de_ta_branche
+2) git add . (ajoute toutes les modifications)
+3) git commit -m 'message' (ajoute un message qui explique les modifications)
+4) git push --set-upstream origin nom de la branch (envoie les modifications)
+5) mettre ton nom + password (desfois, git va te le demander)
+
+
+
+Pour envoyer des changements dans ta branche
+1) assure-toi d'être dans ta branche avec git switch nom_de_ta_branche
 2) git add . (ajoute toutes les modifications)
 3) git commit -m 'message' (ajoute un message qui explique les modifications)
 4) git push (envoie les modifications)
